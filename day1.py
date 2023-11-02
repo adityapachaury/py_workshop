@@ -1,0 +1,16 @@
+print("Hello, Aditya")
+
+print("python \"string\" ")
+mystr = "PYTHON ROCKS"
+print(mystr)
+print(len(mystr))
+print(mystr[10])
+print(mystr[-11])
+print(mystr[-1])
+print(mystr[0])
+print("ROCKS" in mystr)
+print(mystr[0:7])
+print(mystr[-12:-1])
+print(mystr[-12:])
+print(mystr[-12:-6])
+print(mystr[0:])

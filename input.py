@@ -1,0 +1,5 @@
+user_input = input("Enter your name:-")
+input2 =  input("Enter your Roll.no.:-")
+input3 =  input("Enter your D.O.B:-")
+input4 =  input("Enter your Branch.:-")
+print("Your name:-", user_input, "Roll.NO.:-", input2, "DOB:-", input3, "Course:-", input4)
